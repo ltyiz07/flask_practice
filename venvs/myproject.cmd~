@@ -1,0 +1,3 @@
+@echo off
+@cd d:/leety/flask_practice/projects/myproject
+@d:/leety/flask_practice/venvs/myproject/scripts/activate
